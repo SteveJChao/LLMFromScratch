@@ -1,0 +1,20 @@
+# Course creation tools (not part of learning content)
+PLAN.md
+.claude/
+generate_diagrams.py
+
+# Backup files
+*.backup
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
