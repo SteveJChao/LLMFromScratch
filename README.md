@@ -10,22 +10,13 @@
 
 # Building LLM from Scratch
 
-> 一个移动端工程师的大模型原理学习笔记。从零理解 Transformer、预训练、微调、RLHF 的完整流程。
+> 无深度学习背景软件工程师的大模型学习&实践笔记。
 
-## Why
-
-在日常工作中大量使用 AI 应用（Agent、RAG、Prompt Engineering 等），但经常遇到"知其然不知其所以然"的困惑 ——
-
-- 为什么同一段 prompt 换个写法效果就完全不同？
-- Temperature、Top-p 这些参数到底在控制什么？
-- 微调和 RAG 应该选哪个？为什么？
-- RLHF 是怎么让模型"听话"的？
-
-这个项目就是为了搞清楚这些"为什么"。
+> 从零学习&实验 Transformer、预训练、微调、RLHF 的完整流程。由浅入深，理论讲解 + 实验代码，完整构建gpt2-small参数量小语言模型。学习并实践最新高级技巧与优化方法，如KV Cache优化、MoE、推理模型等。
 
 ## What You'll Learn
 
-通过 **107 章**的系统学习，你将掌握：
+### 学习路径：
 
 | 阶段 | 你会学到什么 | 学完能做什么 |
 |------|------------|------------|
@@ -43,12 +34,6 @@
 - **从零构建并训练一个小型语言模型**（预训练 + SFT + RLHF 全流程）
 - **理解大模型从数据到部署的每一个环节**，遇到问题能定位根因而不是盲目调参
 - **具备阅读最新 AI 论文的能力**，能判断新技术的价值和适用场景
-
-## Roadmap
-
-<p align="center">
-  <img src="assets/roadmap.png" alt="Learning Roadmap" width="100%">
-</p>
 
 ## Chapter Format
 
